@@ -11,7 +11,14 @@ To write a Python program to convert the number **16** into its **binary represe
 ## 🧾 Program
 
 Add Code Here
+a = 16
+binary_value = bin(a)
+print(binary_value)
+
 
 ## Output
+<img width="379" height="162" alt="image" src="https://github.com/user-attachments/assets/29178ee7-9457-411a-93f5-9dea94699c36" />
+
 
 ## Result
+thus the code excuted sucessfully
